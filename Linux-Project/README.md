@@ -21,6 +21,7 @@ pwd [-P]
 ```javascript
 pwd [-LP]
 ```
+![Alt text](<pwd command.PNG>)
 
 ## 3. cd command
 ```javascript
