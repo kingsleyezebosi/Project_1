@@ -5,6 +5,7 @@ sudo: Shot for superuser do, this is used to perform tasks that requires adminis
 ```javascript
 sudo apt update
 ```
+![Alt text](<sudo command.PNG>)
 
 ## 2. pwd command
 pwd means "Print Working Directory". This command is used to find the path of your current /present working directory. 
